@@ -1,14 +1,14 @@
 # Game Studio skills for Rakazo
 
-This skills-only plugin adapts the 74 workflows in Claude Code Game Studios. The original project and MIT license remain at the repository root.
+This skills-only plugin is now at the **repository root** so Rakazo can preview it directly from the main repository URL.
 
 ## Install
 
-In Rakazo, open Integrations > + > From GitHub and preview this folder:
+In Rakazo, open Integrations > + > From GitHub and paste the root repository URL:
 
-https://github.com/bmoh95/claude-code-game-studios/tree/main/rakazo
+https://github.com/bmoh95/Claude-Code-Game-Studios
 
-Select Add skills. Skill names are prefixed studio- to avoid common name collisions, e.g. /studio-start and /studio-brainstorm. Preview the list and skipped parts before adding.
+Select Add skills. Skill names are prefixed `studio-` to avoid common name collisions, e.g. `/studio-start` and `/studio-brainstorm`.
 
 ## Important limitations
 
