@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "game-studio-skills",
+  "version": "1.0.0",
+  "description": "Rakazo instruction-only adapters for Claude Code Game Studios workflows.",
+  "license": "MIT",
+  "repository": "https://github.com/bmoh95/claude-code-game-studios"
+}
